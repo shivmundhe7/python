@@ -8,6 +8,5 @@ hey i am good
 'i want to eat an apple'''
 print(apple) 
 print("My Name is ", name , "My Friend name is ",friend, "and","My brother name is ",brother)
-
 print(name[0])
 print(name[1])
