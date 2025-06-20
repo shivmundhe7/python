@@ -1,3 +1,4 @@
+# Mean 1
 a = 15
 b = 3
 gmean1 = ((a*b)/(a+b))
@@ -7,6 +8,7 @@ else:
     print("Second Number is Greater or equal")
 print(gmean1)
 
+# Mean 2
 c = 65
 d = 87
 gmean2 = ((c*d)/(c+d))
