@@ -2,7 +2,6 @@
 # 1.Explicit typecasting
 # 2.intrinsic typecasting
 
-
 # 1.Explicit typecasting
 a = "1"
 # a = 1

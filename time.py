@@ -10,4 +10,3 @@ print(minute)
 
 second = time.strftime('%S')
 print(second)
-
