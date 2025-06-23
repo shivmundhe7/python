@@ -1,5 +1,4 @@
 #Variables And DataTypes
-
 a = complex(8,1)
 b = 2
 c = "Harry"
