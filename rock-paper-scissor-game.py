@@ -3,9 +3,9 @@ import random
 def determine_winner(user, computer):
     if user == computer:
         return "It's a draw!"
-    elif (user == 'rock' and computer == 'paper') or \
-         (user == 'paper' and computer == 'scissor') or \
-         (user == 'scissor' and computer == 'rock'):
+    elif (user == 'paper' and computer == 'rock') or \
+         (user == 'scissor' and computer == 'paper') or \
+         (user == 'rock' and computer == 'scissor'):
         return "You win!"
     else:
         return "Computer wins!"
