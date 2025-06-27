@@ -13,7 +13,6 @@ def determine_winner(user, computer):
 def play_game():
     choices = ['rock', 'paper', 'scissor']
     user = input("Enter your choice (rock, paper, scissor): ").lower()
-    
     if user not in choices:
         print("Invalid choice! Please select rock, paper, or scissor.")
         return
