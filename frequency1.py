@@ -5,6 +5,6 @@ name = input("Enter your name: ")
 count_char(name)
 
 if len(name) % 2 != 0:
-    print(()"This is an odd number")
+    print()("This is an odd number")
 else:
     print("This is an even number")
