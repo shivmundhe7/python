@@ -4,3 +4,4 @@ try :
     print(l[i])
 except:
     print("Some error Occured")
+    
