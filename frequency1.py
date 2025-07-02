@@ -3,7 +3,6 @@ def count_char(name):
         print(f"{char} = {name.count(char)}")
 name = input("Enter your name: ")
 count_char(name)
-
 if len(name) % 2 != 0:
     print()("This is an odd number")
 else:
