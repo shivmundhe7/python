@@ -6,8 +6,6 @@ menu = {
     'coffee': 50,
     'bun paav': 30,
 }
-
-# Greet
 print('Welcome To Python Restaurant')
 print("Pizza : Rs 70\nPasta : Rs 80\nSalad : Rs 40\nCoffee : Rs 50\nBun Paav : Rs 30")
 
