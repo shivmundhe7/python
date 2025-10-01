@@ -1,4 +1,3 @@
-# Menu Of the restaurant
 menu = {
     'pizza': 70,
     'pasta': 80,
